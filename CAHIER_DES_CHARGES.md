@@ -50,7 +50,7 @@
 
 1. **Clonage du dépôt** :
    ```bash
-   git clone [URL_DU_REPO]
+   git clone https://github.com/Patrick-17-cnclsn/supersimplenotes
    cd supersimplenotes
    ```
 
